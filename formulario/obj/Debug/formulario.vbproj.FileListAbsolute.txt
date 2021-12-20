@@ -1,0 +1,42 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.FormRegistro.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\formulario.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\formulario.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\formulario.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\Clientes.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\Clientes.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\bin\Debug\Clientes.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\POOHerencia\formulario\obj\Debug\formulario.pdb
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.exe
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.xml
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.pdb
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\formulario.exe
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\formulario.pdb
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\formulario.xml
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\Clientes.exe
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\Clientes.pdb
+D:\jorge\Descargas\POOHerencia\formulario\bin\Debug\Clientes.xml
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.vbprojResolveAssemblyReference.cache
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.FormRegistro.resources
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.Resources.resources
+D:\jorge\Descargas\POOHerencia\formulario\obj\Debug\formulario.vbproj.GenerateResource.Cache
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\formulario.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\formulario.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\formulario.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\Clientes.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\Clientes.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\bin\Debug\Clientes.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.vbprojResolveAssemblyReference.cache
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.FormRegistro.resources
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.Resources.resources
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\formulario\obj\Debug\formulario.vbproj.GenerateResource.Cache
+D:\Jorge\Descargas\Proyectos GitHub\POOHerencia\formulario\obj\Debug\formulario.exe
+D:\Jorge\Descargas\Proyectos GitHub\POOHerencia\formulario\obj\Debug\formulario.xml
+D:\Jorge\Descargas\Proyectos GitHub\POOHerencia\formulario\obj\Debug\formulario.pdb

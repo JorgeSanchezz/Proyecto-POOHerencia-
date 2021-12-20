@@ -1,0 +1,30 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\bin\Debug\Clientes.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\bin\Debug\Clientes.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\bin\Debug\Clientes.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\bin\Debug\Clientes.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\POOHerencia\Clientes\obj\Debug\Clientes.pdb
+D:\jorge\Descargas\POOHerencia\Clientes\bin\Debug\Clientes.exe.config
+D:\jorge\Descargas\POOHerencia\Clientes\bin\Debug\Clientes.exe
+D:\jorge\Descargas\POOHerencia\Clientes\bin\Debug\Clientes.pdb
+D:\jorge\Descargas\POOHerencia\Clientes\bin\Debug\Clientes.xml
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.vbprojResolveAssemblyReference.cache
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.Resources.resources
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.vbproj.GenerateResource.Cache
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.exe
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.xml
+D:\jorge\Descargas\POOHerencia\Clientes\obj\Debug\Clientes.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\bin\Debug\Clientes.exe.config
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\bin\Debug\Clientes.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\bin\Debug\Clientes.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\bin\Debug\Clientes.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.vbprojResolveAssemblyReference.cache
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.Resources.resources
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.vbproj.GenerateResource.Cache
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\POOHerencia\Clientes\obj\Debug\Clientes.pdb
